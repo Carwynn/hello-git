@@ -2,3 +2,4 @@ Hello github!
 I'm _______.
 I'm new to Github, so please help me out.
 I'm now learning how to use Git and Github.
+I'm now learning some popular Git commands.
